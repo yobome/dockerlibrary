@@ -1,2 +1,0 @@
-hello
-这个文件夹是拉取kubernetes集群所需要的镜像的
