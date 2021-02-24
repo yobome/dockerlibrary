@@ -1,0 +1,1 @@
+FROM jupyterhub/k8s-secret-sync:0.11.1
